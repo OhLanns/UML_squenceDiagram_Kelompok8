@@ -3,4 +3,3 @@ public class Admin extends User {
         super(id, nama, username, password);
     }
 }
-//nj
